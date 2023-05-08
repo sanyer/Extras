@@ -1,13 +1,13 @@
 {
-    "version": "03.00.0094",
+    "version": "03.00.0102",
     "description": "A tool for an easy and fast way to create math equations using LaTex.",
     "homepage": "https://mathpix.com/",
     "license": {
         "identifier": "Freeware",
         "url": "https://mathpix.com/terms"
     },
-    "url": "https://download.mathpix.com/windows/mathpix_snipping_tool_setup.v03.00.0094.exe",
-    "hash": "bc32f6beb8ec4923819c6fb33572a0d58346e9fe761b1ce0ecd10a9629417df0",
+    "url": "https://download.mathpix.com/windows/mathpix_snipping_tool_setup.v03.00.0102.exe",
+    "hash": "1c87a7a2cdc2fa8ced1becf806a1ad7d5478d3080db6b7027fb0846bcbcb8292",
     "innosetup": true,
     "shortcuts": [
         [
