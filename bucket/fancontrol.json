@@ -1,5 +1,5 @@
 {
-    "version": "163",
+    "version": "164",
     "homepage": "https://getfancontrol.com/",
     "description": "A highly customizable fan controlling software for the Windows OS.",
     "license": "Freeware",
@@ -9,8 +9,8 @@
     "notes": "Make sure to install both the 64bit & 32bit versions of Microsoft .NET Desktop Runtime before running the application.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Rem0o/FanControl.Releases/releases/download/V163/FanControl_net_4_8.zip",
-            "hash": "854d55c935c59cdf80a357909a9c99b68c065c4b248fee36625087efe335b1f1"
+            "url": "https://github.com/Rem0o/FanControl.Releases/releases/download/V164/FanControl_net_4_8.zip",
+            "hash": "a18391fc5bbb78a13b7c9a4d9157baa727ed46ce70eec10a8f6778a92dc556b8"
         }
     },
     "pre_install": [
