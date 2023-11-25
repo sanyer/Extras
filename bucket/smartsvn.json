@@ -1,5 +1,5 @@
 {
-    "version": "14.2.2",
+    "version": "14.4.0",
     "description": "Subversion client",
     "homepage": "https://www.smartsvn.com/",
     "license": {
@@ -8,11 +8,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://www.smartsvn.com/downloads/smartsvn/smartsvn-windows-portable-14_2_2.zip",
-            "hash": "sha1:6b87f161b0706022661832c5632efd9fa6131600"
+            "url": "https://www.smartsvn.com/downloads/smartsvn/smartsvn-windows-portable-14_4_0.zip",
+            "hash": "sha1:a235826d608db5ac3ea1e1ca0c90004eaa0e76ad"
         }
     },
-    "extract_dir": "SmartSVN 14.2",
+    "extract_dir": "SmartSVN 14.4",
     "bin": [
         "bin\\smartsvnc.exe",
         [
