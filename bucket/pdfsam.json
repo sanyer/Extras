@@ -1,11 +1,11 @@
 {
-    "version": "5.0.3",
+    "version": "5.2.0",
     "description": "A JavaFX desktop application to split, merge, rotate and perform other manipulations on PDF documents",
     "homepage": "https://github.com/torakiki/pdfsam",
     "license": "AGPL-3.0-only",
-    "url": "https://github.com/torakiki/pdfsam/releases/download/v5.0.3/pdfsam-5.0.3-windows.zip",
-    "hash": "300646243a6157d5b8c8872aff9231acc8dbf95d9dacd35eaebf2d4c2064399f",
-    "extract_dir": "pdfsam-5.0.3-windows\\pdfsam",
+    "url": "https://github.com/torakiki/pdfsam/releases/download/v5.2.0/pdfsam-5.2.0-windows.zip",
+    "hash": "58b77b09512dc3062ef7e18dd562a563eea7852fde40b0f52f3fec02e04a86a6",
+    "extract_dir": "pdfsam-5.2.0-windows\\pdfsam",
     "bin": "pdfsam.exe",
     "shortcuts": [
         [
