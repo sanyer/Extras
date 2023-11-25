@@ -1,12 +1,12 @@
 {
-    "version": "0.11.4",
+    "version": "0.12.7",
     "homepage": "https://privacy.sexy/",
     "description": "Enforce privacy & security on Windows.",
     "license": "GPL-3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/undergroundwires/privacy.sexy/releases/download/0.11.4/privacy.sexy-Setup-0.11.4.exe#/dl.7z",
-            "hash": "sha512:6271cb2471f4c0f92d1ae3a079816e5b45dc6f959f02abf566b101096678d69621372ccc1ccef0a2f549242ddb10b2385e0948410f39c408edfc7960a80efbec"
+            "url": "https://github.com/undergroundwires/privacy.sexy/releases/download/0.12.7/privacy.sexy-Setup-0.12.7.exe#/dl.7z",
+            "hash": "sha512:2b22dfef7e57f23bc7c8dbc11c5f6bddd4df39e553758314143d21864c11846250fb7059a70567093223e44fc4ff15e79bfb5e2f9350c4a2d13711a5f374ddfc"
         }
     },
     "extract_dir": "$PLUGINSDIR",
