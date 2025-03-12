@@ -1,5 +1,5 @@
 {
-    "version": "5.0.11",
+    "version": "5.1.5",
     "description": "Image and photo editor",
     "homepage": "https://www.getpaint.net",
     "license": {
@@ -9,12 +9,12 @@
     "notes": "Windows 7 SP1 and Windows 8.1 are no longer supported.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/paintdotnet/release/releases/download/v5.0.11/paint.net.5.0.11.portable.x64.zip",
-            "hash": "52142ffe9a2b1446366aa362c8ea60796e979492e911e7338b1e33d8fda5cf2d"
+            "url": "https://github.com/paintdotnet/release/releases/download/v5.1.5/paint.net.5.1.5.portable.x64.zip",
+            "hash": "62dfbe2520bbfb16c090505fe3e1275ba003cfeb6cc4e32ee06117a38ffb9687"
         },
         "arm64": {
-            "url": "https://github.com/paintdotnet/release/releases/download/v5.0.11/paint.net.5.0.11.portable.arm64.zip",
-            "hash": "ec501a5e83a1d6c5a7181a8ed9aa310e472d2a069fa936c0f5457e0d9beab720"
+            "url": "https://github.com/paintdotnet/release/releases/download/v5.1.5/paint.net.5.1.5.portable.arm64.zip",
+            "hash": "d907dd591969314783a61f28c7b5aacf67c0810768d62926430f0e4b1da2010c"
         }
     },
     "pre_install": "if(!(Test-Path \"$persist_dir\\PaintDotNet.AppSettings.json\")) {New-Item \"$dir\\PaintDotNet.AppSettings.json\" -ItemType File | Out-Null}",
