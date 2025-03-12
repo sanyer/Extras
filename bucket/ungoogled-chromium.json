@@ -1,19 +1,19 @@
 {
-    "version": "119.0.6045.159-1.1",
+    "version": "134.0.6998.35-1.1",
     "description": "Google Chromium, sans integration with Google.",
     "homepage": "https://ungoogled-software.github.io/ungoogled-chromium-binaries/",
     "license": "BSD-3-Clause",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/119.0.6045.159-1.1/ungoogled-chromium_119.0.6045.159-1.1_windows_x64.zip",
-            "hash": "fcd203ef9a8f25067b12d828941737ddd3dc37bba75e8b8e25dae16c7b99fc2a"
+            "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/134.0.6998.35-1.1/ungoogled-chromium_134.0.6998.35-1.1_windows_x64.zip",
+            "hash": "767947c1dad25b9a54cd257e04c8e86457edf34a63297c5b0830248d89ac0970"
         },
         "32bit": {
-            "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/119.0.6045.159-1.1/ungoogled-chromium_119.0.6045.159-1.1_windows_x86.zip",
-            "hash": "235f411a456714a803d70d78d1353cd3c0251be01e5854e411b9961a2c4b9cce"
+            "url": "https://github.com/ungoogled-software/ungoogled-chromium-windows/releases/download/134.0.6998.35-1.1/ungoogled-chromium_134.0.6998.35-1.1_windows_x86.zip",
+            "hash": "902e22f7204c61114ab2bd673043ec45a1a9a14bc90862933201620dfb53f03d"
         }
     },
-    "extract_dir": "ungoogled-chromium_119.0.6045.159-1.1_windows",
+    "extract_dir": "ungoogled-chromium_134.0.6998.35-1.1_windows",
     "bin": [
         [
             "chrome.exe",
