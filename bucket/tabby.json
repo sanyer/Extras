@@ -1,12 +1,12 @@
 {
-    "version": "1.0.205",
+    "version": "1.0.222",
     "description": "A terminal for a more modern age",
     "homepage": "https://tabby.sh",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Eugeny/tabby/releases/download/v1.0.205/tabby-1.0.205-setup-x64.exe#/dl.7z",
-            "hash": "sha512:18840495c788480a97df252a367d5e2f69bc3de37ff7d3d140c3b9179c351d22c5fe6a7d410e9e130d7ae2c6aedabe81410c403d92d6449f563e027dc8b6b89f",
+            "url": "https://github.com/Eugeny/tabby/releases/download/v1.0.222/tabby-1.0.222-setup-x64.exe#/dl.7z",
+            "hash": "sha512:67251f630d10bd46ef46a05e40cc230dc49ff8287bbeea706f9f7dd7882ea170e49c5bc45da8c63f4e72f420838798fabaade54b731fc0a7935faa62b3d1c7c0",
             "pre_install": [
                 "Expand-7zipArchive \"$dir\\`$PLUGINSDIR\\app-64.7z\" \"$dir\"",
                 "Remove-Item \"$dir\\`$*\", \"$dir\\Unins*\" -Force -Recurse"
