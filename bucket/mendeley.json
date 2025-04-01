@@ -1,5 +1,5 @@
 {
-    "version": "2.92.0",
+    "version": "2.132.0",
     "description": "Manage and share research papers, and generate bibliographies for scholarly articles.",
     "homepage": "https://www.mendeley.com/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.92.0.exe#/dl.7z",
-            "hash": "5f75a386ec8ef5e42fd4437a5a06d0741837648cc456e7912707c0bdf980dcb3"
+            "url": "https://static.mendeley.com/bin/desktop/mendeley-reference-manager-2.132.0.exe#/dl.7z",
+            "hash": "14a93a535f214da070c870b261f8296379ff6ed59bbd5b19bedb62c4cbedb7f1"
         }
     },
     "pre_install": [
