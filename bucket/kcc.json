@@ -1,13 +1,13 @@
 {
-    "version": "9.4.2",
+    "version": "9.4.3",
     "description": "Comic and manga converter for ebook readers.",
     "homepage": "https://github.com/ciromattia/kcc",
     "license": "ISC",
     "depends": "extras/kindlegen",
     "architecture": {
         "64bit": {
-            "url": "https://kcc.iosphe.re/Windows/KindleComicConverter_win_9.4.2.exe",
-            "hash": "50381abef5a80a3cfd25ab026e8e9b67828a7002d7ae9fef81148b498ef7bb3a",
+            "url": "https://kcc.iosphe.re/Windows/KindleComicConverter_win_9.4.3.exe",
+            "hash": "436098d1f95acf0e8a8aa52f09b9f22b54ba62095e85025440772fe8e053ddd4",
             "shortcuts": [
                 [
                     "KCC.exe",
