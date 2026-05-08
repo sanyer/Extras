@@ -1,5 +1,5 @@
 {
-    "version": "8.01.00.9294",
+    "version": "8.05.00.9372",
     "description": "Binary file editor optimized for large files",
     "homepage": "https://www.hhdsoftware.com/free-hex-editor",
     "license": {
@@ -7,7 +7,7 @@
         "url": "https://docs.hhdsoftware.com/pdf/hex"
     },
     "url": "https://www.hhdsoftware.com/download/free-hex-editor-neo.exe#/dl.7z_",
-    "hash": "d7c4b56dfcc6d89f737fba597202ff5b0a07426362a6d83468bf10649f4bf78a",
+    "hash": "8bfbb94448f927521ea39c45a4c3362a231516a623cb7a57f406049bcb8b01ff",
     "pre_install": [
         "if ($architecture -eq '64bit') { $arch = 'x64' }",
         "else { $arch = 'x86' }",
